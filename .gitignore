@@ -1,0 +1,6 @@
+/input/.
+*venv*
+*.idea
+*__
+.~*
+.vscode
